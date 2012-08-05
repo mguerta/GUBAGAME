@@ -1,0 +1,19 @@
+*** Trava ou nao funciona
++++ Rom bichada
+
+OBS: Som ruim no geral. (11025), Velocidade boa, efeito veneziana moderado.
+Total Testada : 156 roms
+
+AWS Pro Moves Soccer(U)[!].bin.gz (nao funciona os 6 botoes)
+After Burner (efeito sonoro nao aparece)
+Another world (aparece uma linha em branco no fim da tela)
+Awesome Possum (ainda com problema no 6 botoes direcional estranho)
+
+Barkley shut up an Jam | 2  (cenario em cima errado) (6 segundos de carga muito lento)
+***Barver Battle Saga - The Space Fighter (so aparece o preview no full com som nao entra)
+***Beyond Oasis (nao entra preview e nem full) tela vermelha no titam acho que é tamanho da memoria
+***Bram stoker´s dracula  (trava tambem no titan igual) no micro funciona bem
+***Buck Rogers - Countdown to doomsday (trava no inicio erro igual ao titam) funciona bem no micro
+
++++Blockbuster Competition II NBS Jam TE & Judee (nao funciona em lugar nenhum) rom bichida
++++Bug´s life, A (rom bichada nao funciona em lugar nenhum)
